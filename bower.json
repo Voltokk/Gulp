@@ -1,0 +1,20 @@
+{
+  "name": "gulp test",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "voltokk"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
