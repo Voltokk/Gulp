@@ -17,8 +17,6 @@
     "gulp-babel": "^7.0.0",
     "gulp-cache": "^0.4.6",
     "gulp-clean": "^0.3.2",
-    "gulp-concat": "^2.6.1",
-    "gulp-csscomb": "^3.0.8",
     "gulp-cssnano": "^2.1.2",
     "gulp-imagemin": "^3.4.0",
     "gulp-notify": "^3.0.0",
@@ -30,8 +28,12 @@
     "gulp-uglifyjs": "^0.6.2",
     "gulp-uncss": "^1.0.6",
     "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.3.11",
     "imagemin-pngquant": "^5.0.1",
     "vinyl-ftp": "^0.6.0",
     "wiredep": "^4.0.0"
+  },
+  "dependencies": {
+    "node-sass": "^4.7.2"
   }
 }
